@@ -1,0 +1,54 @@
+{
+    "chapter_number": "6",
+    "chapter_title": "Combustion and Flame",
+    "topics": [
+        {
+            "topic_title": "Introduction",
+            "sub_topics": [
+                {
+                    "sub_topic_title": "Definition of Combustion",
+                    "paragraphs": [
+                        "Combustion is a chemical process in which a substance reacts with oxygen to give off heat.",
+                        "Light is also produced during combustion."
+                    ],
+                    "activities": [
+                        "Burning a candle to observe the different zones of flame."
+                    ],
+                    "diagrams": [
+                        "Diagram of candle flame with labeled zones"
+                    ],
+                    "tables": [],
+                    "questions": [
+                        "What is combustion?",
+                        "Why is oxygen necessary for combustion?"
+                    ],
+                    "box_facts": [
+                        "Combustion is always accompanied by heat and light."
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_title": "Types of Combustion",
+            "sub_topics": [
+                {
+                    "sub_topic_title": "Rapid and Spontaneous Combustion",
+                    "paragraphs": [
+                        "Rapid combustion happens when a substance burns quickly with the production of heat and light.",
+                        "Spontaneous combustion occurs without external ignition."
+                    ],
+                    "activities": [
+                        "Observe rapid combustion using spirit lamp.",
+                        "Demonstrate spontaneous combustion using white phosphorus."
+                    ],
+                    "diagrams": [],
+                    "tables": [],
+                    "questions": [
+                        "Explain rapid and spontaneous combustion with examples."
+                    ],
+                    "box_facts": []
+                }
+            ]
+        }
+    ]
+}
